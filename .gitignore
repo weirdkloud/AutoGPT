@@ -1,5 +1,5 @@
 ## Original ignores
-.github_access_token
+.github_access_token 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
 autogpt/keys.py
 autogpt/*.json
 auto_gpt_workspace/*
